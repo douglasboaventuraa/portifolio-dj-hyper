@@ -1,0 +1,31 @@
+{
+  "name": "meu-front-app",
+  "version": "1.0.0",
+  "description": "A React application for demonstrating front-end development.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "vite --host 0.0.0.0 --port 3000",
+    "build": "vite build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "frontend"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "vite": "^8.0.0"
+  },
+  "homepage": "http://."
+}
