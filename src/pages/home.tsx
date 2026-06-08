@@ -121,15 +121,15 @@ const Home: React.FC = () => {
                 <h2 className="section-title">Quem é Hyper</h2>
 
                 <p>
-                    Hyper é o projeto artístico de Douglas Boaventura, DJ especializado em criar experiências através da música. Sua missão é transformar cada evento em um momento único, conectando pessoas por meio da energia da pista.
+                    Hyper é o projeto artístico de Douglas Boaventura, DJ que transforma música em experiência. Com uma identidade versátil e uma forte conexão com o público, suas apresentações são construídas para criar momentos marcantes e manter a energia da pista em alta do início ao fim.
                 </p>
 
                 <p>
-                    Com uma identidade versátil e uma leitura de público apurada, Hyper adapta seus sets ao ambiente e à atmosfera de cada apresentação, entregando performances que unem técnica, emoção e entretenimento.
+                    Ao longo de sua trajetória, Hyper já dividiu palco com artistas de destaque da música eletrônica nacional, como Vintage Culture, Illusionize, Carola, Meca, Cat Dealers e Felguk, entre outros. Sua experiência em grandes eventos e diferentes públicos contribuiu para a construção de uma identidade musical versátil e de performances marcantes.
                 </p>
 
                 <p>
-                    Representado pelo símbolo do raio, Hyper carrega a intensidade e a energia que marcam suas apresentações. Mais do que tocar músicas, seu objetivo é criar experiências que sejam lembradas muito além do último beat.
+                    Sem se limitar a um único estilo, Hyper adapta seus sets à atmosfera de cada evento, combinando técnica, leitura de pista e seleção musical para entregar apresentações únicas. Representado pelo símbolo do raio, leva intensidade, energia e autenticidade para cada performance, transformando cada show em uma experiência inesquecível.
                 </p>
             </section>
 
