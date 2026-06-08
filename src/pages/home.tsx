@@ -117,13 +117,19 @@ const Home: React.FC = () => {
                 <a className="fab whatsapp" href="https://wa.me/5534998662647" target="_blank" rel="noreferrer"><i className="fa-brands fa-whatsapp" /></a>
             </aside>
 
-            <section className="section container">
+            <section className="section container" id="sobre">
                 <h2 className="section-title">Quem é Hyper</h2>
+
                 <p>
-                    Douglas tem 27 anos, nascido em Brasília, e é a mente por trás de Hyper. Um nome que carrega propósito: significa grandioso, algo muito elevado. E é exatamente essa energia que ele busca transmitir para as pessoas através da música — cada som é uma sensação que ele vive e quer que você viva também.
+                    Hyper é o projeto artístico de Douglas Boaventura, DJ especializado em criar experiências através da música. Sua missão é transformar cada evento em um momento único, conectando pessoas por meio da energia da pista.
                 </p>
+
                 <p>
-                    O raio é o símbolo que o representa. Ele eletriza onde toca, e é isso que acontece aqui. Douglas não se prende a um único estilo ou som — ele se adapta. Ao momento, ao evento, à energia que vem de volta da pista. Quando ele está nos decks, está totalmente entregue ao projeto, oferecendo o melhor dessa experiência sonora.
+                    Com uma identidade versátil e uma leitura de público apurada, Hyper adapta seus sets ao ambiente e à atmosfera de cada apresentação, entregando performances que unem técnica, emoção e entretenimento.
+                </p>
+
+                <p>
+                    Representado pelo símbolo do raio, Hyper carrega a intensidade e a energia que marcam suas apresentações. Mais do que tocar músicas, seu objetivo é criar experiências que sejam lembradas muito além do último beat.
                 </p>
             </section>
 
@@ -250,7 +256,7 @@ const Home: React.FC = () => {
             <section className="download-wrap container">
                 <a
                     className="cta cta-download"
-                    href="https://drive.google.com/drive/folders/1rzcQBPVYb66EmEKISwX1uI9FStdZSVd8?usp=share_link"
+                    href="https://1drv.ms/f/c/5901efef4354072c/IgAsB1RD7-8BIIBZjvkCAAAAAcVp5ldW39maQRlAg1JKnhc?e=qu1m2B"
                     target="_blank"
                     rel="noreferrer"
                 >
